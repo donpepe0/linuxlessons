@@ -1,6 +1,7 @@
 ---
 layout: page
 title: openSUSE
+category: Getting Started
 permalink: /en/opensuse/
 cat: getting-started
 order: 10

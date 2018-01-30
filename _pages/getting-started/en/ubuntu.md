@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ubuntu
+category: Getting Started
 permalink: /en/ubuntu/
 cat: getting-started
 order: 5

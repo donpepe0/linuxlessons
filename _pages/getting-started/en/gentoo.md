@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gentoo
+category: Getting Started
 permalink: /en/gentoo/
 cat: getting-started
 order: 8

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Red Hat Enterprise Linux
+category: Getting Started
 permalink: /en/red-hat-enterprise-linux/
 cat: getting-started
 order: 4

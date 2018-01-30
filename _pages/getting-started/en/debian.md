@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Debian
+category: Getting Started
 permalink: /en/debian/
 cat: getting-started
 order: 3

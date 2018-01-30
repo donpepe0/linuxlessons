@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fedora
+category: Getting Started
 permalink: /en/fedora/
 cat: getting-started
 ref: fedora

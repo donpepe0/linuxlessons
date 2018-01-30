@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Linux Mint
+category: Getting Started
 permalink: /en/linux-mint/
 cat: getting-started
 order: 7
