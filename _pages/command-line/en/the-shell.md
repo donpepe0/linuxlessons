@@ -21,9 +21,9 @@ username@hostname:current_directory
 pete@icebox:/home/pete $
 ```
 
-Notice the $ at the end of the prompt? Different shells will have different prompts, in our case the $ is for a normal user using Bash, Bourne or Korn shell, you don't add the prompt symbol when you type the command, just know that it's there.
+Notice the `$` at the end of the prompt? Different shells will have different prompts, in our case the `$` is for a normal user using Bash, Bourne or Korn shell, you don't add the prompt symbol when you type the command, just know that it's there.
 
-Let’s start with a simple command, echo. The echo command just prints out the text arguments to the display.
+Let’s start with a simple command, `echo`. The `echo` command just prints out the text arguments to the display.
 
 `$ echo Hello World`
 
@@ -31,8 +31,8 @@ Let’s start with a simple command, echo. The echo command just prints out the 
 
 Try some other Linux commands and see what they output:
 
-1. $ date
-2. $ whoami
+1. `$ date`
+2. `$ whoami`
 
 ## Quiz Question
 

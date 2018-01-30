@@ -9,18 +9,6 @@ lang: pl
   <h1 class="page-heading">{{ site.toc[page.lang] }}</h1>
 
   <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"></a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-  <ul class="post-list">
     {% assign pages=site.pages | where:"lang", page.lang | where:"order", "1" %}
         {% for my_page in pages %}
           {% if my_page.title %}

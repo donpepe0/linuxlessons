@@ -10,9 +10,9 @@ lang: en
 
 ## Lesson Content
 
-If you are viewing text files larger than a simple output, less is more. (There is actually a command called more that does something similar, so this is ironic.) The text is displayed in a paged manner, so you can navigate through a text file page by page. 
+If you are viewing text files larger than a simple output, `less` is more. (There is actually a command called `more` that does something similar, so this is ironic.) The text is displayed in a paged manner, so you can navigate through a text file page by page. 
 
-Go ahead and look at the contents of a file with less. Once you’re in the less command, you can actually use other keyboard commands to navigate in the file. 
+Go ahead and look at the contents of a file with `less`. Once you’re in the `less` command, you can actually use other keyboard commands to navigate in the file. 
 
 `$ less /home/pete/Documents/text1`
 
@@ -28,11 +28,11 @@ Use the following command to navigate through less:
 
 ## Exercise
 
-Run less on a file, then page up and around the file. Try searching for a specific word. Quickly navigate to the beginning or the end of the file.
+Run `less` on a file, then page up and around the file. Try searching for a specific word. Quickly navigate to the beginning or the end of the file.
 
 ## Quiz Question
 
-How do you quit out of a less command?  
+How do you quit out of a `less` command?  
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 

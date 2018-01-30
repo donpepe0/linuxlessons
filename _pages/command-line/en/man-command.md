@@ -10,7 +10,7 @@ lang: en
 
 ## Lesson Content
 
-Gee I wish some of these programs had a manual so we can see some more information about them. Well luckily they do! Aptly named man pages, you can see the manuals for a command with the man command. 
+Gee I wish some of these programs had a manual so we can see some more information about them. Well luckily they do! Aptly named man pages, you can see the manuals for a command with the `man` command. 
 
 `$ man ls`
 
@@ -20,7 +20,7 @@ Try it out on a few commands to get more information about them.
 
 ## Exercise
 
-Run the man command on the ls command.
+Run the `man` command on the `ls` command.
 
 ## Quiz Question
 
