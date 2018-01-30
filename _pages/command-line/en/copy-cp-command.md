@@ -19,9 +19,9 @@ mycoolfile is the file you want to copy and /home/pete/Documents/cooldocs is whe
 You can copy multiple files and directories as well as use wildcards. A wildcard is a character that can be substituted for a pattern based selection, giving you more flexibility with searches. You can use wildcards in every command for more flexibility.
 
 
-* * the wildcard of wildcards, it's used to represent all single characters or any string.
-* ? used to represent one character
-* [] used to represent any character within the brackets
+* `*` the wildcard of wildcards, it's used to represent all single characters or any string.
+* `?` used to represent one character
+* `[]` used to represent any character within the brackets
 
 
 `$ cp *.jpg /home/pete/Pictures`
