@@ -14,10 +14,9 @@ If you are viewing text files larger than a simple output, less is more. (There 
 
 Go ahead and look at the contents of a file with less. Once you’re in the less command, you can actually use other keyboard commands to navigate in the file. 
 
-```$ less /home/pete/Documents/text1```
+`$ less /home/pete/Documents/text1`
 
 Use the following command to navigate through less: 
-
 
 * q - Used to quit out of less and go back to your shell.
 * Page up, Page down, Up and Down - Navigate using the arrow keys and page keys.

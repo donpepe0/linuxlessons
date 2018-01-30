@@ -19,13 +19,13 @@ Now that you know where you are, let’s see if we can move around the filesyste
 
 Now that you know how paths work, we just need something to help us change to the directory we want to. Luckily, we have cd or “change directory” to do that. 
 
-```$ cd /home/pete/Pictures``` 
+`$ cd /home/pete/Pictures` 
 
 So now I've changed my directory location to /home/pete/Pictures.
 
 Now from this directory I have a folder inside called Hawaii, I can navigate to that folder with:
 
-```$ cd Hawaii```
+`$ cd Hawaii`
 
 Notice how I just used the name of the folder? It’s because I was already in /home/pete/Pictures.
 
@@ -38,7 +38,8 @@ It can get pretty tiring navigating with absolute and relative paths all the tim
 * - (previous directory). This will take you to the previous directory you were just at.
 
 
-```$ cd .
+```bash
+$ cd .
 $ cd ..
 $ cd ~
 $ cd -
