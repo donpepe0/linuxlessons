@@ -1,7 +1,0 @@
-files:
-  - source: _pages/command-line/en/*.md
-    translation: _pages/command-line/%two_letters_code%/%original_file_name%
-  - source: _pages/getting-started/en/*.md
-    translation: _pages/getting-started/%two_letters_code%/%original_file_name%
-  - source: _pages/filesystem/en/*.md
-    translation: _pages/filesystem/%two_letters_code%/%original_file_name%
