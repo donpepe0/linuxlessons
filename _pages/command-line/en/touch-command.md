@@ -12,7 +12,7 @@ lang: en
 
 Let’s learn how to make some files. A very simple way is to use the touch command. Touch allows you to the create new empty files.
 
-<pre>$ touch mysuperduperfile</pre>
+```$ touch mysuperduperfile```
 
 And boom, new file! 
 

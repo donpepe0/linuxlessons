@@ -12,7 +12,7 @@ lang: en
 
 In your shell, there is a history of the commands that you previously entered, you can actually look through these commands. This is quite useful when you want to find and run a command you used previously without actually typing it again.
 
-<pre>$ history</pre>
+```$ history```
 
 Want to run the same command you did before, just hit the up arrow. 
 
@@ -22,7 +22,7 @@ Another history shortcut is ctrl-R, this is the reverse search command, if you h
 
 Our terminal is getting a little cluttered no? Let’s do a little cleanup, use the clear command to clear up your display.
 
-<pre>$ clear</pre>
+```$ clear```
 
 There that looks better doesn’t it? 
 
