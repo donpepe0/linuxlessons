@@ -18,7 +18,8 @@ In this course we will use the shell program bash (Bourne Again shell), almost a
 Let’s jump right in! Depending on the distribution your shell prompt might change, but for the most part it should adhere to the following format:
 ```
 username@hostname:current_directory  
-pete@icebox:/home/pete $```
+pete@icebox:/home/pete $
+```
 
 Notice the $ at the end of the prompt? Different shells will have different prompts, in our case the $ is for a normal user using Bash, Bourne or Korn shell, you don't add the prompt symbol when you type the command, just know that it's there.
 
