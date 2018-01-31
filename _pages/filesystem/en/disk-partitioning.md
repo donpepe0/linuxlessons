@@ -15,12 +15,12 @@ Let's do some practical stuff with filesytems by working through the process on 
 
 First we'll need to partition our disk. There are many tools available to do this: 
 
-* fdisk - basic command-line partitioning tool, it does not support GPT
-* parted - this is a command line tool that supports both MBR and GPT partitioning
-* gparted - this is the GUI version of parted
-* gdisk - fdisk, but it does not support MBR only GPT
+* `fdisk` - basic command-line partitioning tool, it does not support GPT
+* `parted` - this is a command line tool that supports both MBR and GPT partitioning
+* `gparted` - this is the GUI version of parted
+* `gdisk` - `fdisk`, but it does not support MBR only GPT
 
-Let's use parted to do our partitioning. Let's say I connect the USB device and we see the device name is /dev/sdb2. 
+Let's use parted to do our partitioning. Let's say I connect the USB device and we see the device name is `/dev/sdb2`. 
 
 **Launch parted**  
 
@@ -36,7 +36,7 @@ To select the device you'll be working with, select it by its device name.
 
 **View current partition table**  
 
-```bash
+```
 (parted) print                                                            
 Model: Seagate (scsi)
 Disk /dev/sda: 21.5GB
@@ -78,4 +78,4 @@ What is the parted command to make a partition?
 
 ## Quiz Answer
 
-mkpart
+`mkpart`

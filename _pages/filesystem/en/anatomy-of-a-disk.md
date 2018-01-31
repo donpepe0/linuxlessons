@@ -11,7 +11,7 @@ lang: en
 
 ## Lesson Content
 
-Hard disks can be subdivided into partitions, essentially making multiple block devices. Recall such examples as, /dev/sda1 and /dev/sda2, /dev/sda is the whole disk, but /dev/sda1 is the first partition on that disk. Partitions are extremely useful for separating data and if you need a certain filesystem, you can easily create a partition instead of making the entire disk one filesystem type.
+Hard disks can be subdivided into partitions, essentially making multiple block devices. Recall such examples as, `/dev/sda1` and `/dev/sda2`, `/dev/sda` is the whole disk, but `/dev/sda1` is the first partition on that disk. Partitions are extremely useful for separating data and if you need a certain filesystem, you can easily create a partition instead of making the entire disk one filesystem type.
 
 **Partition Table**  
 Every disk will have a partition table, this table tells the system how the disk is partitioned. This table tells you where partitions begin and end, which partitions are bootable, what sectors of the disk are allocated to what partition, etc. There are two main partition table schemes used, Master Boot Record (MBR) and GUID Partition Table (GPT).
@@ -44,7 +44,7 @@ We know from our previous lesson that a filesystem is an organized collection of
  
 Let's take a look at the different partition tables. Below is an example of a partition using the MBR partitioning table (msdos). You can see the primary, extended and logical partitions on the machine.
 
-```bash
+```
 pete@icebox:~$ sudo parted -l
 Model: Seagate (scsi)
 Disk /dev/sda: 21.5GB
@@ -74,12 +74,12 @@ Number  Start   End     Size     File system  Name        Flags
 
 ## Exercise
 
-Run **parted -l** on your machine and evaluate your results.
+Run `parted -l` on your machine and evaluate your results.
 
 ## Quiz Question
 
-What partition type is used to create more than 4 partitions in the MBR partitioning scheme?
-
+What partition type is used to create more than 4 partitions in the MBR partitioning scheme?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
 extended

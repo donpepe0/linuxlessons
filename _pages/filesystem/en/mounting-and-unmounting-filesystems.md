@@ -29,7 +29,7 @@ Remember that the kernel names devices in the order it finds them. What if our d
 
 To view the UUIDS on your system for block devices:
 
-```bash
+```
 pete@icebox:~$ sudo blkid
 /dev/sda1: UUID="130b882f-7d79-436d-a096-1e594c92bb76" TYPE="ext4" 
 /dev/sda5: UUID="22c3d34b-467e-467c-b44d-f03803c2c526" TYPE="swap" 
@@ -48,8 +48,8 @@ Look at the manpage for mount and umount and see what other options you can use.
 
 ## Quiz Question
 
-What command is used to attach a filesystem?
-
+What command is used to attach a filesystem?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
-mount
+`mount`

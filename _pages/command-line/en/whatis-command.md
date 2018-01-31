@@ -16,7 +16,7 @@ Whew, we’ve learned quite a bit of commands so far, if you are ever feeling do
 
 The description gets sourced from the manual page of each command. If you ran `whatis cat`, you’d see there is a small blurb with a short description.
 ```
-[pete@icybox]$ whatis cat
+[pete@icebox]$ whatis cat
 cat (1p)             - concatenate and print files
 cat (1)              - concatenate files and print on the standard output
 ``` 
