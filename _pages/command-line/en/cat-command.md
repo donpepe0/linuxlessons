@@ -10,7 +10,7 @@ lang: en
 
 ## Lesson Content
 
-We’re almost done navigating files, but first let’s learn how to read a file. A simple command to use is the cat command, short for concatenate, it not only displays file contents but it can combine multiple files and show you the output of them. 
+We’re almost done navigating files, but first let’s learn how to read a file. A simple command to use is the `cat` command, short for concatenate, it not only displays file contents but it can combine multiple files and show you the output of them. 
 
 `$ cat dogfile birdfile`
 
@@ -18,7 +18,7 @@ It’s not great for viewing large files and it’s only meant for short content
 
 ## Exercise
 
-Run cat on different files and directories. Then try to cat multiple files. 
+Run `cat` on different files and directories. Then try to `cat` multiple files. 
 
 ## Quiz Question
 
@@ -27,4 +27,4 @@ What's a good way to see the contents of a file?
 
 ## Quiz Answer
 
-cat
+`cat`

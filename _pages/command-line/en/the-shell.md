@@ -36,7 +36,7 @@ Try some other Linux commands and see what they output:
 
 ## Quiz Question
 
-What should be outputted to the display when you type echo Hello World?  
+What should be outputted to the display when you type `echo Hello World`?  
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 

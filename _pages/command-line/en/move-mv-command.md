@@ -46,4 +46,4 @@ How do you rename a file called cat to dog?
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
-mv cat dog
+`mv cat dog`

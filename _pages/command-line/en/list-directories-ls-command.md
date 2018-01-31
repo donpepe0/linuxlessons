@@ -46,7 +46,7 @@ Commands have things called flags (or arguments or options, whatever you want to
 
 ## Exercise
 
-Run ls with different flags and see the output you receive.
+Run `ls` with different flags and see the output you receive.
 
 ## Quiz Question
 
