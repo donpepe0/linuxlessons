@@ -7,19 +7,6 @@ lang: en
 <div class="home">
 
   <h1 class="page-heading">{{ site.data.[page.lang].toc }}</h1>
-
-  <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"></a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
   <ul class="post-list">
     {% assign pages=site.pages | where:"lang", page.lang | where:"order", "1" %}
         {% for my_page in pages %}
@@ -28,10 +15,10 @@ lang: en
           {% endif %}
     {% endfor %}
   </ul>
-<ul>
-  {% for menu in site.home.[page.lang] %}
-    <li>{{ menu[1].getting-started }}</li>
-  {% endfor %}
-</ul>
+  <ul class="post-list">
+    <li><a class="page-link" href="{{ site.pages.[page.lang].linux-history | prepend: site.baseurl }}" {{ site.data.[page.lang].getting-started }}</a>
+  </ul>
+
+
 
 </div>
