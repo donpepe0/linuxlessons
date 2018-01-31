@@ -6,7 +6,7 @@ lang: en
 
 <div class="home">
 
-  <h1 class="page-heading">{{ site.toc[page.lang] }}</h1>
+  <h1 class="page-heading">{{ site.data.[page.lang].toc }}</h1>
 
   <ul class="post-list">
     {% assign posts=site.posts | where:"lang", page.lang %}
