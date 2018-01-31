@@ -15,9 +15,17 @@ description:
 index:
   en:
   pl: index-pl.html
-toc:
-  en: Table of Contents
-  pl: Spis treści
+home:
+  en:
+    toc: Table of Contents
+    getting-started: Getting Started
+    command-line: Command Line
+    the-filesystem: The Filesystem
+  pl:
+     toc: Spis treści
+     getting-started: Pierwsze kroki
+     command-line: Linia komend
+     the-filesystem: System plików
 url: "https://github.com/donpepe0/linuxlessons" # the base hostname & protocol for your site
 github_username:  donpepe0
 email: mruq80@gmail.com
