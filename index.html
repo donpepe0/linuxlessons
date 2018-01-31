@@ -11,12 +11,12 @@ lang: en
     {% assign pages=site.pages | where:"lang", page.lang | where:"order", "1" %}
         {% for my_page in pages %}
           {% if my_page.title %}
-          <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.category }}</a>
+          <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.category }}</a></li>
           {% endif %}
     {% endfor %}
   </ul>
   <ul class="post-list">
-    <li><a class="page-link" href="{{ site.pages.[page.lang].getting-started.linux-history.permalink | prepend: site.baseurl }}"> {{ site.data.[page.lang].getting-started }}</a>
+    <li><a class="page-link" href="{{ site.pages.[page.lang].getting-started.linux-history.permalink | prepend: site.baseurl }}"> {{ site.data.[page.lang].getting-started }}</a></li>
   </ul>
 
 
