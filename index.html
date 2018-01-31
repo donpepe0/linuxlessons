@@ -29,7 +29,7 @@ lang: en
     {% endfor %}
   </ul>
 <ul>
-  {% for menu in site.home[page.lang] %}
+  {% for menu in site.home.[page.lang] %}
     <li>{{ menu[1].getting-started }}</li>
   {% endfor %}
 </ul>
