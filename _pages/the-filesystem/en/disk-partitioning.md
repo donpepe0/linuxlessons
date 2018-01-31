@@ -74,8 +74,8 @@ Partition a USB drive with half of the drive as ext4 and the other half as free 
 
 ## Quiz Question
 
-What is the parted command to make a partition?
-
+What is the parted command to make a partition?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
 `mkpart`
