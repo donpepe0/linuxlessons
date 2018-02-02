@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inodes
+title: inodes
 category: The Filesystem
 permalink: /en/inodes/
 cat: the-filesystem
@@ -33,11 +33,11 @@ Basically inodes store everything about the file, except the filename and the fi
 
 When a filesystem is created, space for inodes is allocated as well. There are algorithms that take place to determine how much inode space you need depending on the volume of the disk and more. You've probably at some point in your life seen errors for out of disk space issues. Well the same can occur for inodes as well (although less common), you can run out of inodes and therefore be unable to create more files. Remember data storage depends on both the data and the database (inodes). 
 
-To see how many inodes are left on your system, use the command ``df -i``
+To see how many inodes are left on your system, use the command `df -i`
 
 **Inode information**  
 
-Inodes are identified by numbers, when a file gets created it is assigned an inode number, the number is assigned in sequential order. However, you may sometimes notice when you create a new file, it gets an inode number that is lower than others, this is because once inodes are deleted, they can be reused by other files. To view inode numbers run **ls -li**:
+Inodes are identified by numbers, when a file gets created it is assigned an inode number, the number is assigned in sequential order. However, you may sometimes notice when you create a new file, it gets an inode number that is lower than others, this is because once inodes are deleted, they can be reused by other files. To view inode numbers run `ls -li`:
 
 ```
 pete@icebox:~$ ls -li

@@ -18,12 +18,14 @@ file1.txt
 1 John
 2 Jane
 3 Mary
-
+```
+```
 file2.txt
 1 Doe
 2 Doe
 3 Sue
-
+```
+```
 $ join file1.txt file2.txt
 1 John Doe
 2 Jane Doe
@@ -39,7 +41,8 @@ file1.txt
 John 1
 Jane 2
 Mary 3
-
+```
+```
 file2.txt
 1 Doe
 2 Doe
@@ -67,8 +70,8 @@ Join two files with different number of lines in each file, what happens?
 
 ## Quiz Question
 
-What command would you use to join files named cat dog cow?
-
+What command would you use to join files named cat dog cow?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
-join cat dog cow
+`join cat dog cow`
