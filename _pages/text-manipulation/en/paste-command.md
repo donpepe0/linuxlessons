@@ -38,8 +38,8 @@ Try to paste multiple files together, what happens?
 
 ## Quiz Question
 
-What flag do you use with paste to make everything go on one line? 
-
+What flag do you use with paste to make everything go on one line?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
 `-s`

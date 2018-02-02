@@ -33,8 +33,8 @@ Try the following commands:
 
 ## Quiz Question
 
-What key represents the pipe operator?
-
+What key represents the pipe operator?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
 `|`

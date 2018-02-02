@@ -46,8 +46,8 @@ $ cut -c -5 sample.txt
 
 ## Quiz Question
 
-What command would you use to get the first character of every line in a file?
-
+What command would you use to get the first character of every line in a file?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
 `cut -c 1`

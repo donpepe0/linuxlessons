@@ -1,12 +1,22 @@
-# tr (Translate)
+---
+layout: page
+title: tr
+permalink: /en/tr-command/
+cat: text-manipulation
+order: 13
+ref: tr-command
+lang: en
+---
 
 ## Lesson Content
 
-The tr (translate) command allows you to translate a set of characters into another set of characters. Let's try an example of translating all lower case characters to uppercase characters. 
+The `tr` (translate) command allows you to translate a set of characters into another set of characters. Let's try an example of translating all lower case characters to uppercase characters. 
 
-<pre>$ tr a-z A-Z
+```
+$ tr a-z A-Z
 hello
-HELLO</pre>
+HELLO
+```
 
 As you can see we made the ranges of a-z into A-Z and all text we type that is lowercase gets uppercased. 
 
@@ -14,13 +24,15 @@ As you can see we made the ranges of a-z into A-Z and all text we type that is l
 
 Try the following command what happens? 
 
-<pre>$ tr -d ello
-hello</pre>
+```
+$ tr -d ello
+hello
+```
 
 ## Quiz Question
 
-What command is used to translate characters?
-
+What command is used to translate characters?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
-tr
+`tr`
