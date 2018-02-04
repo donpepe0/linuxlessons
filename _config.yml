@@ -6,29 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:
-  en: Linux Lessons
-  pl: Lekcje Linuksa
-description:
-  en: Welcome to Linux Lessons.
-  pl: Witaj na Lekcjach Linuksa.
 index:
   en:
   pl: index-pl.html
-home:
-  en:
-    toc: Table of Contents
-    getting-started: Getting Started
-    command-line: Command Line
-    the-filesystem: The Filesystem
-  pl:
-     toc: Spis treści
-     getting-started: Pierwsze kroki
-     command-line: Linia komend
-     the-filesystem: System plików
-url: "https://github.com/donpepe0/linuxlessons" # the base hostname & protocol for your site
-github_username:  donpepe0
-email: mruq80@gmail.com
+
+url: "http://linuxlessons.cc" # the base hostname & protocol for your site
+github_username: donpepe0
+email: contact@linuxlessons.cc
 
 # Build settings
 markdown: kramdown
