@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vim Saving and Exiting
+title: Vim Saving and Exiting
 permalink: /en/vim-saving-exiting/
 cat: advanced-text-manipulation
 order: 8

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vim Search Patterns
+title: Vim Search Patterns
 permalink: /en/vim-search-patterns/
 cat: advanced-text-manipulation
 order: 4

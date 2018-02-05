@@ -1,4 +1,12 @@
-# Emacs
+---
+layout: page
+title: Emacs
+permalink: /en/emacs/
+cat: advanced-text-manipulation
+order: 9
+ref: emacs
+lang: en
+---
 
 ## Lesson Content
 
@@ -6,7 +14,7 @@ Emacs is for users who want an extremely powerful text editor, which may be an u
 
 To start emacs just use:
 
-```emacs```
+`emacs`
 
 You should be greeted with the default welcome buffer.
 

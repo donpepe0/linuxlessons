@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vim Inserting and Appending
+title: Vim Inserting and Appending
 permalink: /en/vim-inserting-appending/
 cat: advanced-text-manipulation
 order: 6

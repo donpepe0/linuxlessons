@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vim Navigation
+title: Vim Navigation
 permalink: /en/vim-navigation/
 cat: advanced-text-manipulation
 order: 5

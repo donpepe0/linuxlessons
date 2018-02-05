@@ -81,8 +81,8 @@ Try to combine regular expressions with grep and search through some files.
 
 ## Quiz Question
 
-What regular expression would you use to match a single character?
-
+What regular expression would you use to match a single character?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
 `.`

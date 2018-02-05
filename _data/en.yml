@@ -1,8 +1,10 @@
 title: Linux Lessons
-description: Welcome to Linux Lessons.
+description: Welcome to Linux Lessons. Here you will find useful information to help you understand this really robust operating system. If you want to contribute to this project, please check GitHub page.
 toc: Table of Contents
 getting-started: Getting Started
 command-line: Command Line
 text-manipulation: Text Manipulation
+advanced-text-manipulation: Advanced Text Manipulation
+user-management: User Management
 the-filesystem: The Filesystem
 

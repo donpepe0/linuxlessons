@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vim Editing
+title: Vim Editing
 permalink: /en/vim-editing/
 cat: advanced-text-manipulation
 order: 7
