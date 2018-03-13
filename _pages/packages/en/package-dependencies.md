@@ -1,4 +1,12 @@
-# Package Dependencies
+---
+layout: page
+title: Package Dependencies
+permalink: /en/package-dependencies/
+cat: packages
+order: 4
+ref: package-dependencies
+lang: en
+---
 
 ## Lesson Content
 

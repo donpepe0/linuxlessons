@@ -10,10 +10,22 @@ command-line:
 text-manipulation:
    t: Text Manipulation
    d: Learn how to "Hello World" in shell and basic text manipulation.
-advanced-text-manipulation: Advanced Text Manipulation
-user-management: User Management
-permissions: Permissions
-processes: Processes
-packages: Packages
-the-filesystem: The Filesystem
+advanced-text-manipulation:
+   t: Advanced Text Manipulation
+   d: Learn about Regular Expressions and text editors like vim or emacs.
+user-management:
+   t: User Management
+   d: Learn how to manage users and groups.
+permissions:
+   t: Permissions
+   d: Learn about permissions in Linux.
+processes:
+   t: Processes
+   d: Learn how to control processes in Linux.
+packages:
+   t: Packages
+   d: Learn about packages and package management tools.
+the-filesystem:
+   t: The Filesystem
+   d: Learn about Linux filesystem.
 
