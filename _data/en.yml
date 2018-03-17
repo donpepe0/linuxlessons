@@ -25,6 +25,9 @@ processes:
 packages:
    t: Packages
    d: Learn about packages and package management tools.
+devices:
+   t: Devices
+   d: Learn about devices in Linux.
 the-filesystem:
    t: The Filesystem
    d: Learn about Linux filesystem.

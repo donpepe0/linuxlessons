@@ -35,8 +35,8 @@ Look at your disk usage and free space with both `du` and `df`.
 
 ## Quiz Question
 
-What command is use to show how much space is free on your disk?
-
+What command is use to show how much space is free on your disk?  
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Quiz Answer
 
 `df`
