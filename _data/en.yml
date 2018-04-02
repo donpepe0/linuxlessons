@@ -31,4 +31,7 @@ devices:
 the-filesystem:
    t: The Filesystem
    d: Learn about Linux filesystem.
+booting:
+   t: Boot The System
+   d: Learn about Linux start processes.
 
