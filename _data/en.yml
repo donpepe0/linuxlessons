@@ -34,4 +34,10 @@ the-filesystem:
 booting:
    t: Boot The System
    d: Learn about Linux start processes.
+kernel:
+   t: Kernel
+   d: Learn about the core of the system.
+init:
+   t: Init
+   d: Learn about different initialization processes
 
