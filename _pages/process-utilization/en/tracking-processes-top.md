@@ -43,14 +43,14 @@ The fields are from left to right:
 
 **3rd line: Cpu information**
 
-1. `us: user CPU time` - Percentage of CPU time spent running users’ processes that aren’t niced.
-2. `sy: system CPU time` - Percentage of CPU time spent running the kernel and kernel processes
-3. `ni: nice CPU time` - Percentage of CPU time spent running niced processes
-4. `id: CPU idle time` - Percentage of CPU time that is spent idle
-5. `wa: I/O wait` - Percentage of CPU time that is spent waiting for I/O. If this value is low, the problem probably isn’t disk or network I/O 
-6. `hi: hardware interrupts` - Percentage of CPU time spent serving hardware interrupts
-7. `si: software interrupts` - Percentage of CPU time spent serving software interrupts
-8. `st: steal time` - If you are running virtual machines, this is the percentage of CPU time that was stolen from you for other tasks
+1. `us` - user CPU time. Percentage of CPU time spent running users’ processes that aren’t niced
+2. `sy` - system CPU time. Percentage of CPU time spent running the kernel and kernel processes
+3. `ni` - nice CPU time. Percentage of CPU time spent running niced processes
+4. `id` - CPU idle time. Percentage of CPU time that is spent idle
+5. `wa` - I/O wait. Percentage of CPU time that is spent waiting for I/O. If this value is low, the problem probably isn’t disk or network I/O 
+6. `hi` - hardware interrupts. Percentage of CPU time spent serving hardware interrupts
+7. `si` - software interrupts. Percentage of CPU time spent serving software interrupts
+8. `st` - steal time. If you are running virtual machines, this is the percentage of CPU time that was stolen from you for other tasks
 
 **4th and 5th line: Memory Usage and Swap Usage**
 
