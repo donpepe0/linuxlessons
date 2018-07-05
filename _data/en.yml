@@ -40,7 +40,6 @@ kernel:
 init:
    t: Init
    d: Learn about different initialization processes
-
 process-utilization:
    t: Process Utilization
    d: Learn how to monitor CPU, memory, processes
