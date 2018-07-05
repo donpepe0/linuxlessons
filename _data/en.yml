@@ -46,3 +46,6 @@ process-utilization:
 logging:
    t: Logging
    d: Learn about system logs and how to manage them
+network-sharing:
+   t: Network Sharing
+   d: Learn about nfs, rsync, scp

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ssytem Logging
+title: System Logging
 permalink: /en/system-logging/
 cat: logging
 order: 1
