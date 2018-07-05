@@ -27,11 +27,11 @@ pete@icebox:~$ ps m
     - -        R+     0:00 -
 ```
 
-The processes are denoted with each PID and underneath the processes are their threads (denoted by a --). So you can see that the processes above are both single-threaded.
+The processes are denoted with each PID and underneath the processes are their threads (denoted by a `-`). So you can see that the processes above are both single-threaded.
 
 ## Exercise
 
-Run the **ps m** command and see what processes you have running are multi-threaded.
+Run the `ps m` command and see what processes you have running are multi-threaded.
 
 ## Quiz Question
 

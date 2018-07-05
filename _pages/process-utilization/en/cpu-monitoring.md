@@ -10,7 +10,7 @@ lang: en
 
 ## Lesson Content
 
-Let's go over a useful command, **uptime**.
+Let's go over a useful command, `uptime`.
 
 ```
 pete@icebox:~$ uptime

@@ -10,7 +10,7 @@ lang: en
 
 ## Lesson Content
 
-In addition to CPU monitoring and I/O monitoring you can monitor your memory usage with **vmstat**
+In addition to CPU monitoring and I/O monitoring you can monitor your memory usage with `vmstat`.
 
 ```
 pete@icebox:~$ vmstat
