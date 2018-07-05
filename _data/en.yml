@@ -43,4 +43,6 @@ init:
 process-utilization:
    t: Process Utilization
    d: Learn how to monitor CPU, memory, processes
-
+logging:
+   t: Logging
+   d: Learn about system logs and how to manage them
