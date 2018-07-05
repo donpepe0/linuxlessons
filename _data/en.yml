@@ -49,3 +49,6 @@ logging:
 network-sharing:
    t: Network Sharing
    d: Learn about nfs, rsync, scp
+network-basics:
+   t: Network Basics
+   d: Learn basics about network
